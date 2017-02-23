@@ -17,11 +17,13 @@
 
 - Found bubbles easily using potentiostat for steel wire and thick gold surface (non-transparent). Next to try was to find bubbles on an ITO surface. 
 
-- Found that ITO would not support bubbles on the surface like gold would, the coating would be destroyed/fall off by the low potentials (although we did not know this at the time because the ITO is transparent).
+- Found that ITO would not support bubbles on the surface like gold would, the coating would be destroyed/fall off by the low potentials (although we did not know this at the time because the ITO is transparent). There would also be a change in colour before that time, which was found to be documented in literature, after which the coating sloped off.
 
-- Thought that it might be to with poor contact from the cell connection to the ITO coverslip, and created many different prototypes to try to combat this, none of which worked. Contact made using silver paint and copper strips, as well as using conductive glue.
+- Thought that it might be to with poor contact from the cell connection to the ITO coverslip, and created many different prototypes to try to combat this, none of which worked. Contact made using silver paint and copper strips, as well as using conductive glue. Thought it could also be due to contamination from plastic, but this was proved wrong when done inside a glass elctrode cell. 
 
-- Then tried to silver coat onto the ITO coverslips, however, this silver coating was again delaminated when the coverslip was exposed to low potetnials, approx -1 V. 
+- Then tried to deposit silver coating onto the ITO coverslips, however, this silver coating was again delaminated when the coverslip was exposed to low potetnials, approx -1 V, with no bubbles being formed either. The silver coating did take, but was no good for use in the cell due to no bubbles and loss of conductivity/coating at low potential values.
+
+- After this, we decided to try evaporating gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials and decided to change tact and start work with nomal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials. 
 
 - 
 
