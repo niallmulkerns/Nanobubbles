@@ -1,8 +1,20 @@
 # Nanobubbles Project Log
 
 ## Table of Contents
+- [Project Aims](#project-aims)
 - [Log of Project Improvements/Directions](#log-of-project-improvementsdirections)
 - [Skills Learnt](#skills-learnt)
+- [Data](#data)
+
+## Project Aims
+
+- To create and monitor bubbles in the TIRF system inside Bill. Including:
+  - How the bubbles fluctuate in the x/y direction.
+  - How they change in height over time.
+  - Determine the resolution of the TIRF.
+  - Find the smallest bubbles that can be created and at what voltage.
+  - Frequency of bubble creation against time/voltage (how many bubbles visible at each time as a function of voltage).
+  - 
 
 
 ## Log of Project Improvements/Directions
@@ -21,9 +33,11 @@
 
 - Thought that it might be to with poor contact from the cell connection to the ITO coverslip, and created many different prototypes to try to combat this, none of which worked. Contact made using silver paint and copper strips, as well as using conductive glue. Thought it could also be due to contamination from plastic, but this was proved wrong when done inside a glass elctrode cell. 
 
+- Tried to determine the "bubble point" of the thick gold sample, as the ITO samples were not producing bubbles. Found that the "dirty" (i.e. not cleaned) gold sample had a significantly higher bubble point (approx -1040 mV) than that of the clean gold sample (approx 575 mV). [Not sure about this as logic dictates that the bubble point should be lower for the dirty sample as the bubbles form around impurities on the surface. Also unsure that the cell was set up correctly for these values to be 100% true].  
+
 - Then tried to deposit silver coating onto the ITO coverslips, however, this silver coating was again delaminated when the coverslip was exposed to low potetnials, approx -1 V, with no bubbles being formed either. The silver coating did take, but was no good for use in the cell due to no bubbles and loss of conductivity/coating at low potential values.
 
-- After this, we decided to try evaporating gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials and decided to change tact and start work with nomal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials. 
+- After this, we decided to try evaporating gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials and decided to change tact and start work with normal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials. 
 
 - 
 
@@ -32,13 +46,15 @@
 
 - How to use a potentiostat.
 
-- Cleaning glassware (and gold samples) chemically using sulfuric and nitric acid (or sulfuric then anneal).
+- Cleaning glassware (and gold samples) chemically using sulfuric and nitric acid (or sulfuric then anneal). Gold samples were cleaned sucessfully such that the characteristic gold cyclic voltammetry response could be seen. [INSERT PICTURE].
 
 - Creating a simple reference electrode for an HCl cell. Achieved by connecting a cell with a silver wire and a stainless steel counter to a DC power suppy at +1 V for five minutes until a brownish coating has formed on the outside of the electrode.
 
 - Creating a standardised solution of a specific molar concentration. 
 
-- Using the TIRF microscope in basement, especially starting it up and focusing the optics of it. Making sure that the laser is properly focused on the centre of the microscope and no scattering occurs. Can take pictures of bubbles and measure their position/height fluctuations. 
+- Using the TIRF microscope in basement, especially starting it up and focusing the optics of it. Making sure that the laser is properly focused on the centre of the microscope and no scattering occurs. Can take pictures of bubbles and measure their position/height fluctuations. [INSERT PICTURE OF TIRF APPARATUS].
 
 - 
+
+## Data 
 
