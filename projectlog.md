@@ -14,7 +14,8 @@
   - Determine the resolution of the TIRF.
   - Find the smallest bubbles that can be created and at what voltage.
   - Frequency of bubble creation against time/voltage (how many bubbles visible at each time as a function of voltage).
-  - 
+
+
 
 
 ## Log of Project Improvements/Directions
