@@ -1,8 +1,8 @@
 # Nanobubbles Project Log
 
 ## Table of Contents
-- [Log of Project Improvements/Directions] (#log-of-project-improvements/directions)
-- [Skills Learnt] (#skills-learnt)
+- [Log of Project Improvements/Directions](#log-of-project-improvementsdirections)
+- [Skills Learnt](#skills-learnt)
 
 
 ## Log of Project Improvements/Directions
