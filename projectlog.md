@@ -60,10 +60,8 @@
 ## Data 
 
 ![AFM image of gold surface on glass](pictures/SilanGoldBatch2b.jpg)
-
-- Above: An AFM image of an ultra-thin evaporated gold layer on a glass cover slip that has been silanised using technique described above. The centre part (lighter - graphic is false-coloured based on relative height of surface) shows a scratch in the gold layer, allowing us to see the height difference between glass and the coated glass.
+>*Above: An AFM image of an ultra-thin evaporated gold layer on a glass cover slip that has been silanised using technique described above. The centre part (lighter - graphic is false-coloured based on relative height of surface) shows a scratch in the gold layer, allowing us to see the height difference between glass and the coated glass.*
 
 ![AFM profile of surface height](pictures/ProfilefromSilanGoldBatch2b.jpg)
-
-- Above: Height profile from above AFM image (shown by line). The change in height is approximately 30 nm, however the error on this measurement is fairly large (probably +/- 5 nm, needs more data to compare). 
+>*Above: Height profile from above AFM image (shown by line). The change in height is approximately 30 nm, however the error on this measurement is fairly large (probably +/- 5 nm, needs more data to compare).*
 
