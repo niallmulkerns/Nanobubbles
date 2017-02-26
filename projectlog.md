@@ -59,3 +59,6 @@
 
 ## Data 
 
+![AFM image of gold surface on glass](pictures/SilanGoldBatch2b.jpg "Silanated Glass with Ultra-thin Evaporated Gold Layer")
+
+![AFM profile of surface height](pictures/ProfilefromSilanGoldBatch2b.jpg "Height Profile From Above AFM Image")
