@@ -6,6 +6,8 @@
 - [Skills Learnt](#skills-learnt)
 - [Data](#data)
 
+---
+
 ## Project Aims
 
 - To create and monitor bubbles in the TIRF system inside Bill. Including:
@@ -16,7 +18,7 @@
   - Frequency of bubble creation against time/voltage (how many bubbles visible at each time as a function of voltage).
 
 
-
+---
 
 ## Log of Project Improvements/Directions
 
@@ -42,6 +44,7 @@
 
 - 
 
+---
 
 ## Skills Learnt
 
@@ -57,6 +60,8 @@
 
 - 
 
+---
+
 ## Data 
 
 ![AFM image of gold surface on glass](pictures/SilanGoldBatch2b.jpg)
@@ -65,3 +70,4 @@
 ![AFM profile of surface height](pictures/ProfilefromSilanGoldBatch2b.jpg)
 >*Above: Height profile from above AFM image (shown by line). The change in height is approximately 30 nm, however the error on this measurement is fairly large (probably +/- 5 nm, needs more data to compare).*
 
+---
