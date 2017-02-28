@@ -75,6 +75,6 @@
 ![AFM profile of surface height](pictures/ProfilefromSilanGoldBatch2b.jpg)
 >*Above: Height profile from above AFM image (shown by line). The change in height is approximately 30 nm, however the error on this measurement is fairly large (probably +/- 5 nm, needs more data to compare).*
 
-![TIRF microscopy image of bubble in cell](pictures/LargeBubble.tif)
->*Above: A total internal reflectance microscopy image of the left hand side of a large (micro-scale, not nano-scale) bubble on the gold surface of a coated glass slide (the large arc in white, the intense white spots are most likely dust/dirt on the surface). Taken using the cell we created (Bill). Focus needs to be improved. 
+![TIRF microscopy image of bubble in cell](pictures/LargeBubble.png)
+>*Above: A total internal reflectance microscopy image of the left hand side of a large (micro-scale, not nano-scale) bubble on the gold surface of a coated glass slide (the large arc in white, the intense white spots are most likely dust/dirt on the surface). Taken using the cell we created (Bill). Focus needs to be improved.*
 ---
