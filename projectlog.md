@@ -42,12 +42,15 @@
 
 - Then tried to deposit silver coating onto the ITO coverslips, however, this silver coating was again delaminated when the coverslip was exposed to low potetnials, approx -1 V, with no bubbles being formed either. The silver coating did take, but was no good for use in the cell due to no bubbles and loss of conductivity/coating at low potential values.
 
-- After this, we decided to try evaporating a gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials [Senthikumar et al 2007] and decided to change tact and start work with normal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials. 
+- After this, we decided to try evaporating a gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials [Senthikumar et al 2007] and decided to change tact and start work with normal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials.
+  - Calculated the approximate amount (in grams) of gold needed to get a 10 nm coating on the slide given a certain distance from the source and assuming isotropic hemispherical coverage. Found that less gold than calculated was needed, most likely due to the bat causing the coverage to be non-isotropic, instead focussing it in the right direction. 
 
 - Explored multiple options:
   - Electroless plating [Hu et al. 2007]: glass coverslips are silanised with APTES-like solution which allows gold nanoparticles to form a SAM on the surface through a series of chemical baths. Has the disadvantage of being a slow and expensive procedure. *Has not been attempted (to the gold nanoparticles stage) as of yet - see final bullet point.*
   - Evaporate a thin layer of chromium/titanium onto glass (as an adhesive layer between the glass and gold), then evaporate another layer of gold on top. This has the disadvantages of being difficult to control, chromium is toxic, both form oxides in air (which are non-adhesive and impossible to avoid, except using Neil's evaporator) and the fact that both are opaque, so would not help the cause of being transparent. *Has not been attempted as of yet - see final bullet point.*
   - Coat the glass with active groups (such as NH<sub>3</sub> through silanisation or amination) then evaporate gold onto the glass, so that the adhesive layer is the attached molecules. Effectively doing the first part of electroless plating then evaporating instead of using gold nanoparticles. *Attempted first with aminated and silanted glass - silanated glass was sucessful so other options were not followed up.*
+  
+- In the meantime, tried to get data on exactly how thick the surface coating of gold was (see [Data](#data) section) and found that when we evaporated, the thickness varied between about 20 - 30 nm, which is thin enough to be transparent. 
 
 ---
 
