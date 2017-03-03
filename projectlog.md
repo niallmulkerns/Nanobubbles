@@ -12,7 +12,7 @@
 ---
 
 ## To Do List
-- **POSTER STUFF - FOR WEDNESDAY 19<sup>TH<\sup> MARCH.**
+- **POSTER STUFF - FOR WEDNESDAY 19<sup>TH</sup> MARCH.**
   - Look into the theory of the chemistry behind creating the cell (silanisation/SAM etc).
   - Think about the kind of questions they might ask about nanobubbles in poster/presentations (i.e. read some more review papers on nanobubbles and get the basics right, optics, AFM theory etc).
     - "What is the mechanism of the bubbles sticking?".
