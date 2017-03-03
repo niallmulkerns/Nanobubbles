@@ -3,6 +3,7 @@
 *All work below was undertaken and compiled by Niall Mulkerns and Shivani Shah. Please do not copy any parts of this - this is meant only as a reference for the authors.*
 
 ## Table of Contents
+- [To Do List](#to-do-list)
 - [Project Aims](#project-aims)
 - [Log of Project Improvements/Directions](#log-of-project-improvementsdirections)
 - [Skills Learnt](#skills-learnt)
@@ -10,14 +11,29 @@
 
 ---
 
+## To Do List
+- POSTER STUFF - FOR WEDNESDAY 19TH MARCH.
+  - Look into the theory of the chemistry behind creating the cell (silanisation/SAM etc).
+  - Think about the kind of questions they might ask about nanobubbles in poster/presentations (i.e. read some more review papers on nanobubbles and get the basics right, optics, AFM theory etc).
+    - "What is the mechanism of the bubbles sticking?".
+- 3D print new lid.
+- Clean glass (in plasma cleaner and chemically) and gold slide.
+- Image the clean glass with the AFM.
+- Make new cell using Ben.
+- Disassemble Bill and clean it.
+- Find the macroscopic contact angle of bubbles. Also with surfactants? In answer to the bubble sticking question.
+
+
 ## Project Aims
 
 - To create and monitor bubbles in the TIRF system inside Bill. Including:
-  - How the bubbles fluctuate in the x/y direction.
-  - How they change in height over time.
+  - How the bubbles fluctuate thermally in the x/y direction.
+  - How they change in radius/height over time.
   - Determine the resolution of the TIRF.
   - Find the smallest bubbles that can be created and at what voltage.
   - Frequency of bubble creation against time/voltage (how many bubbles visible at each time as a function of voltage).
+  
+- Create a theoretical model of the thermal fluctuations in bubbles.
 
 
 ---
