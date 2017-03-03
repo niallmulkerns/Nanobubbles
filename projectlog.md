@@ -60,7 +60,7 @@
 - Then tried to deposit silver coating onto the ITO coverslips, however, this silver coating was again delaminated when the coverslip was exposed to low potetnials, approx -1 V, with no bubbles being formed either. The silver coating did take, but was no good for use in the cell due to no bubbles and loss of conductivity/coating at low potential values.
 
 - After this, we decided to try evaporating a gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials [Senthikumar et al 2007] and decided to change tact and start work with normal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials.
-  - Calculated the approximate amount (in grams) of gold needed to get a 10 nm coating on the slide given a certain distance from the source and assuming isotropic hemispherical coverage. Found that less gold than calculated was needed, most likely due to the bat causing the coverage to be non-isotropic, instead focussing it in the right direction. 
+  - Calculated the approximate amount (in grams) of gold needed to get a 10 nm coating on the slide given a certain distance from the source and assuming isotropic hemispherical coverage. Found that less gold than calculated was needed, most likely due to the bowl, focussing the evaporate in the centre, causing the coverage to be non-isotropic. 
 
 - Explored multiple options:
   - Electroless plating [Hu et al. 2007]: glass coverslips are silanised with APTES-like solution which allows gold nanoparticles to form a SAM on the surface through a series of chemical baths. Has the disadvantage of being a slow and expensive procedure. *Has not been attempted (to the gold nanoparticles stage) as of yet - see final bullet point.*
@@ -68,6 +68,14 @@
   - Coat the glass with active groups (such as NH<sub>3</sub> through silanisation or amination) then evaporate gold onto the glass, so that the adhesive layer is the attached molecules. Effectively doing the first part of electroless plating then evaporating instead of using gold nanoparticles. *Attempted first with aminated and silanted glass - silanated glass was sucessful so other options were not followed up.*
   
 - In the meantime, tried to get data on exactly how thick the surface coating of gold was (see [Data](#data) section) and found that when we evaporated, the thickness varied between about 20 - 30 nm, which is thin enough to be transparent. 
+
+- Found that using aminated glass slides did not work, but sucessfully worked after silanisation. The silanised slides were gold coated in the standard way (using the evaporator) and remained thin enough to be transparent. The silanised slides were tested for lamination from -500 mV to -2000 mV, and did not show any signs of peeling, even at the edges. 
+  - In addition, we found that leaving the silanised slides for a period of time (either in air or APTES) after the usual 16 hr exposure time did not seem to hinder the abilty for the molecules to bind the gold surface well enough for bubble formation. 
+  - *Further experiments have shown that the gold layer does become damaged over multiple uses; small circular holes in the gold are seen, however this doesn't seem to affect the surfaces ability to conduct or form bubbles. This is a possible area of improvement. We believe the holes to be formed when large bubbles pop and cause high surface stress, taking some of the coating with them, however this is just a theory.*
+  
+- Using the glass 'pot' we had made, we attached the cleaned gold slide to the bottom using silcone sealant and an o-ring to create a water/acid-tight seal. We found the best way to do this was sliding the o-ring through silcone then pressing firmly onto the gold-coated glass, twisting and then weighting it down. This procedure was then repeated to attach the o-ring/surface to the glass cell. This cell has survived multiple hours ofacid contact so far with no leakage. A copper contact is secured to the gold part by kepton tape, making sure that it is not wrapped fully round and that the copper isn't in contact with the solution. [INSERT PICTURE?]
+
+- Using this new cell, we were able to use the TIRF microscope to view surface microbubbles, however, we are yet to create nanobubbles, but this should just be a matter of using the right potential. The gold surface used was not particularly clean and now has many so called 'bullet holes' in it (as described above). The uncleanliness means that dust and other unwanted objects are present on the surface, obscuring the bubbles and saturating the detector slightly. There were many circular objects present on the surface of the glass that did not appear to change in size, even when the potential was highly negative, their identity remains unknown. 
 
 ---
 
@@ -84,6 +92,10 @@
 - Using the TIRF microscope in basement, especially starting it up and focusing the optics of it. Making sure that the laser is properly focused on the centre of the microscope and no scattering occurs. Can take pictures of bubbles and measure their position/height fluctuations. [INSERT PICTURE OF TIRF APPARATUS].
 
 - How to use the evaporator safely and how to set it up consistently such that a film of approximately costant thickness could be achieved (mass of gold used each time is the same, 0.0188 g). 
+
+- Using the standard microscope in the teaching lab. 
+
+- Setting up and using the AFM in the MSci labs correctly, as well as analysing the images created.
 
 ---
 
