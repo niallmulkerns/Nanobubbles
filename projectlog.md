@@ -22,6 +22,7 @@
 - Make new cell using Ben.
 - Disassemble Bill and clean it.
 - Find the macroscopic contact angle of bubbles. Also with surfactants? In answer to the bubble sticking question.
+- Figure out how to make the movie files from the TIRF smaller (change exposition time and something else).
 
 
 ## Project Aims
