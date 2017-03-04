@@ -60,7 +60,7 @@
 - Then tried to deposit silver coating onto the ITO coverslips, however, this silver coating was again delaminated when the coverslip was exposed to low potetnials, approx -1 V, with no bubbles being formed either. The silver coating did take, but was no good for use in the cell due to no bubbles and loss of conductivity/coating at low potential values.
 
 - After this, we decided to try evaporating a gold surface onto the ITO coverslips, which unfortunately did not work either due to reasons mentioned above. Then found the papers on ITO delamination at low potentials [Senthikumar et al 2007] and decided to change tact and start work with normal glass coverlsips instead. However, it is well known that glass and gold do not adhere well to each other, so an adhesive layer must be present between the two to stop the gold from peeling away from the glass at low potentials.
-  - Calculated the approximate amount (in grams) of gold needed to get a 10 nm coating on the slide given a certain distance from the source and assuming isotropic hemispherical coverage. Found that less gold than calculated was needed, most likely due to the bowl, focussing the evaporate in the centre, causing the coverage to be non-isotropic. 
+  - Calculated the approximate amount (in grams) of gold needed to get a 10 nm coating on the slide given a certain distance from the source and assuming isotropic hemispherical coverage. Found that less gold than calculated was needed (settled on approxmately 80% of first value calculated), most likely due to the bowl, focussing the evaporate in the centre, causing the coverage to be non-isotropic. 
 
 - Explored multiple options:
   - Electroless plating [Hu et al. 2007]: glass coverslips are silanised with APTES-like solution which allows gold nanoparticles to form a SAM on the surface through a series of chemical baths. Has the disadvantage of being a slow and expensive procedure. *Has not been attempted (to the gold nanoparticles stage) as of yet - see final bullet point.*
@@ -69,14 +69,16 @@
   
 - In the meantime, tried to get data on exactly how thick the surface coating of gold was (see [Data](#data) section) and found that when we evaporated, the thickness varied between about 20 - 30 nm, which is thin enough to be transparent. 
 
-- Found that using aminated glass slides did not work, but sucessfully worked after silanisation. The silanised slides were gold coated in the standard way (using the evaporator) and remained thin enough to be transparent. The silanised slides were tested for lamination from -500 mV to -2000 mV, and did not show any signs of peeling, even at the edges. 
-  - In addition, we found that leaving the silanised slides for a period of time (either in air or APTES) after the usual 16 hr exposure time did not seem to hinder the abilty for the molecules to bind the gold surface well enough for bubble formation. 
+- Found that using aminated glass slides did not work, but sucessfully worked after silanisation. The silanised slides were gold coated in the standard way (using the evaporator) and remained thin enough to be transparent. The silanised slides were tested for lamination from -500 mV to -2000 mV, and did not show any signs of peeling, even at the edges. However, when the coverslips were exposed to positive voltages, the gold coating seemed to dissolve from the surface and into the solution, which did not reattach when the potential was reduced again (using cyclic voltammetry). 
+  - In addition, we found that leaving the silanised slides for a period of time (either in air or APTES) after the usual 16 hr exposure time did not seem to hinder the abilty for the molecules to bind the gold surface well enough for bubble formation. The silanised gold samples are easily scratched by sharp objects, however.
+  - When the bubbles formed, the current would be negative (around -1 mA) and fluctuate slightly over time. Try to find a paper/theory showing the link between current and bubble nucleation.
   - *Further experiments have shown that the gold layer does become damaged over multiple uses; small circular holes in the gold are seen, however this doesn't seem to affect the surfaces ability to conduct or form bubbles. This is a possible area of improvement. We believe the holes to be formed when large bubbles pop and cause high surface stress, taking some of the coating with them, however this is just a theory.*
   
 - Using the glass 'pot' we had made, we attached the cleaned gold slide to the bottom using silcone sealant and an o-ring to create a water/acid-tight seal. We found the best way to do this was sliding the o-ring through silcone then pressing firmly onto the gold-coated glass, twisting and then weighting it down. This procedure was then repeated to attach the o-ring/surface to the glass cell. This cell has survived multiple hours ofacid contact so far with no leakage. A copper contact is secured to the gold part by kepton tape, making sure that it is not wrapped fully round and that the copper isn't in contact with the solution. [INSERT PICTURE?]
 
 - Using this new cell, we were able to use the TIRF microscope to view surface microbubbles, however, we are yet to create nanobubbles, but this should just be a matter of using the right potential. The gold surface used was not particularly clean and now has many so called 'bullet holes' in it (as described above). The uncleanliness means that dust and other unwanted objects are present on the surface, obscuring the bubbles and saturating the detector slightly. There were many circular objects present on the surface of the glass that did not appear to change in size, even when the potential was highly negative, their identity remains unknown. 
 
+- 
 ---
 
 ## Skills Learnt
@@ -96,6 +98,14 @@
 - Using the standard microscope in the teaching lab. 
 
 - Setting up and using the AFM in the MSci labs correctly, as well as analysing the images created.
+
+- Creating silanised glass.
+  - Clean the glass slides (and petri dishes used to contain them) using isopropanol (and acetone if needed) to get rid of any surface dust or contaminants. Then was with deionised water and dry with nitrogen.
+  - Put clean slides in petri dish into the plasma cleaner for approximately 8 minutes to clean glass and functionalise the surface with -OH groups.
+  - Pour in a solution of 10% APTES in methanol that covers the glass slides and leave covered with parafilm in a fume cupboard for approximately 16 hrs
+  - Take out and wash with copious amounts of ethanol and then deionised water, finally being dried with nitrogen gas.
+  - Coverslips can be sliced at one corner to know which side (silanated or non-silanated) is which.
+  - APTES solution is very sticky and hard to remove when dried, so not recommended to leave for longer.
 
 ---
 
