@@ -1,6 +1,6 @@
 # Nanobubbles Project Log
 
-*All work below was undertaken and compiled by Niall Mulkerns and Shivani Shah. Please do not copy any parts of this - this is meant only as a reference for the authors.*
+**_All work below was undertaken and compiled by Niall Mulkerns and Shivani Shah. Please do not copy any parts of this - this is meant only as a reference for the authors._**
 
 ## Table of Contents
 - [To Do List](#to-do-list)
